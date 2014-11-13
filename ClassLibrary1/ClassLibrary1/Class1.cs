@@ -7,6 +7,6 @@ namespace ClassLibrary1
 {
     public class Class1
     {
-        string s = "Hello world45!!!";
+        string s = "Hello world45345345!!!";
     }
 }
